@@ -975,8 +975,8 @@
     "title": "Verse 89",
     "verse_number": 42,
     "verse_order": 89,
-    "transliteration": "yāmimāṁ puṣhpitāṁ vāchaṁ pravadanty-avipaśhchitaḥ\nveda-vāda-ratāḥ pārtha nānyad astīti vādinaḥ\n kāmātmānaḥ swarga-parā janma-karma-phala-pradām\nkriyā-viśheṣha-bahulāṁ bhogaiśhwarya-gatiṁ prati\n",
-    "word_meanings": "yām imām—all these; puṣhpitām—flowery; vācham—words; pravadanti—speak; avipaśhchitaḥ—those with limited understanding; veda-vāda-ratāḥ—attached to the flowery words of the Vedas; pārtha—Arjun, the son of Pritha; na anyat—no other; asti—is; iti—thus; vādinaḥ—advocate;\n kāma-ātmānaḥ—desirous of sensual pleasure; swarga-parāḥ—aiming to achieve the heavenly planets; janma-karma-phala—high birth and fruitive results; pradāṁ—awarding; kriyā-viśheṣha—pompous ritualistic ceremonies; bahulām—various; bhoga—gratification; aiśhwarya—luxury; gatim—progress; prati—toward\n"
+    "transliteration": "yāmimāṁ puṣhpitāṁ vāchaṁ pravadanty-avipaśhchitaḥ\nveda-vāda-ratāḥ pārtha nānyad astīti vādinaḥ\n",
+    "word_meanings": "yām imām—all these; puṣhpitām—flowery; vācham—words; pravadanti—speak; avipaśhchitaḥ—those with limited understanding; veda-vāda-ratāḥ—attached to the flowery words of the Vedas; pārtha—Arjun, the son of Pritha; na anyat—no other; asti—is; iti—thus; vādinaḥ—advocate;\n "
 }, {
     "chapter_id": 2,
     "chapter_number": 2,
@@ -2097,8 +2097,8 @@
     "title": "Verse 191",
     "verse_number": 29,
     "verse_order": 191,
-    "transliteration": "apāne juhvati prāṇaṁ prāṇe ’pānaṁ tathāpare\nprāṇāpāna-gatī ruddhvā prāṇāyāma-parāyaṇāḥ\n apare niyatāhārāḥ prāṇān prāṇeṣhu juhvati\nsarve ’pyete yajña-vido yajña-kṣhapita-kalmaṣhāḥ\n",
-    "word_meanings": "apāne—the incoming breath; juhvati—offer; prāṇam—the outgoing breath; prāṇe—in the outgoing breath; apānam—incoming breath; tathā—also; apare—others; prāṇa—of the outgoing breath; apāna—and the incoming breath; gatī—movement; ruddhvā—blocking; prāṇa-āyāma—control of breath; parāyaṇāḥ—wholly devoted\n apare—others; niyata—having controlled; āhārāḥ—food intake; prāṇān—life-breaths; prāṇeṣhu—life-energy; juhvati—sacrifice; sarve—all; api—also; ete—these; yajña-vidaḥ—knowers of sacrifices; yajña-kṣhapita—being cleansed by performances of sacrifices; kalmaṣhāḥ—of impurities\n"
+    "transliteration": "apāne juhvati prāṇaṁ prāṇe ’pānaṁ tathāpare\nprāṇāpāna-gatī ruddhvā prāṇāyāma-parāyaṇāḥ\n",
+    "word_meanings": "apāne—the incoming breath; juhvati—offer; prāṇam—the outgoing breath; prāṇe—in the outgoing breath; apānam—incoming breath; tathā—also; apare—others; prāṇa—of the outgoing breath; apāna—and the incoming breath; gatī—movement; ruddhvā—blocking; prāṇa-āyāma—control of breath; parāyaṇāḥ—wholly devoted\n"
 }, {
     "chapter_id": 4,
     "chapter_number": 4,
@@ -2328,8 +2328,8 @@
     "title": "Verse 212",
     "verse_number": 8,
     "verse_order": 212,
-    "transliteration": "naiva kiñchit karomīti yukto manyeta tattva-vit\npaśhyañ śhṛiṇvan spṛiśhañjighrann aśhnangachchhan svapañśhvasan\n pralapan visṛijan gṛihṇann unmiṣhan nimiṣhann api\nindriyāṇīndriyārtheṣhu vartanta iti dhārayan\n",
-    "word_meanings": "na—not; eva—certainly; kiñchit—anything; karomi—I do; iti—thus; yuktaḥ—steadfast in karm yog; manyeta—thinks; tattva-vit—one who knows the truth; paśhyan—seeing; śhṛiṇvan—hearing; spṛiśhan—touching; jighran—smelling; aśhnan—eating; gachchhan—moving; svapan—sleeping; śhvasan—breathing;\n pralapan—talking; visṛijan—giving up; gṛihṇan—accepting; unmiṣhan—opening (the eyes); nimiṣhan—closing (the eyes); api—although; indriyāṇi—the senses; indriya-artheṣhu—in sense-objects; vartante—moving; iti—thus; dhārayan—convinced\n"
+    "transliteration": "naiva kiñchit karomīti yukto manyeta tattva-vit\npaśhyañ śhṛiṇvan spṛiśhañjighrann aśhnangachchhan svapañśhvasan\n",
+    "word_meanings": "na—not; eva—certainly; kiñchit—anything; karomi—I do; iti—thus; yuktaḥ—steadfast in karm yog; manyeta—thinks; tattva-vit—one who knows the truth; paśhyan—seeing; śhṛiṇvan—hearing; spṛiśhan—touching; jighran—smelling; aśhnan—eating; gachchhan—moving; svapan—sleeping; śhvasan—breathing;"
 }, {
     "chapter_id": 5,
     "chapter_number": 5,
@@ -2537,8 +2537,8 @@
     "title": "Verse 231",
     "verse_number": 27,
     "verse_order": 231,
-    "transliteration": "sparśhān kṛitvā bahir bāhyānśh chakṣhuśh chaivāntare bhruvoḥ\nprāṇāpānau samau kṛitvā nāsābhyantara-chāriṇau\n yatendriya-mano-buddhir munir mokṣha-parāyaṇaḥ\nvigatechchhā-bhaya-krodho yaḥ sadā mukta eva saḥ\n",
-    "word_meanings": "sparśhān—contacts (through senses); kṛitvā—keeping; bahiḥ—outside; bāhyān—external; chakṣhuḥ—eyes; cha—and; eva—certainly; antare—between; bhruvoḥ—of the eyebrows; prāṇa-apānau—the outgoing and incoming breaths; samau—equal; kṛitvā—keeping; nāsa-abhyantara—within the nostrils; chāriṇau—moving; \n yata—controlled; indriya—senses; manaḥ—mind; buddhiḥ—intellect; muniḥ—the sage; mokṣha—liberation; parāyaṇaḥ—dedicated; vigata—free; ichchhā—desires; bhaya—fear; krodhaḥ—anger; yaḥ—who; sadā—always; muktaḥ—liberated; eva—certainly; saḥ—that person\n"
+    "transliteration": "sparśhān kṛitvā bahir bāhyānśh chakṣhuśh chaivāntare bhruvoḥ\nprāṇāpānau samau kṛitvā nāsābhyantara-chāriṇau\n",
+    "word_meanings": "sparśhān—contacts (through senses); kṛitvā—keeping; bahiḥ—outside; bāhyān—external; chakṣhuḥ—eyes; cha—and; eva—certainly; antare—between; bhruvoḥ—of the eyebrows; prāṇa-apānau—the outgoing and incoming breaths; samau—equal; kṛitvā—keeping; nāsa-abhyantara—within the nostrils; chāriṇau—moving; \n"
 }, {
     "chapter_id": 5,
     "chapter_number": 5,
@@ -4759,7 +4759,7 @@
     "title": "Verse 433",
     "verse_number": 19,
     "verse_order": 433,
-    "transliteration": "स्वतेजसा विश्वमिदं तपन्तम् || 19||\n",
+    "transliteration": "anādimadhyāntamanantavīrya-manantabāhuṅ śaśisūryanētram. paśyāmi tvāṅ dīptahutāśavaktram  svatējasā viśvamidaṅ tapantam\n",
     "word_meanings": "anādi-madhyāntam ananta-vīryam\nananta-bāhuṁ śhaśhi-sūrya-netram\npaśhyāmi tvāṁ dīpta-hutāśha-vaktraṁ\nsva-tejasā viśhvam idaṁ tapantam\n"
 }, {
     "chapter_id": 11,
@@ -4836,8 +4836,8 @@
     "title": "Verse 440",
     "verse_number": 26,
     "verse_order": 440,
-    "transliteration": "amī cha tvāṁ dhṛitarāśhtrasya putrāḥ\nsarve sahaivāvani-pāla-saṅghaiḥ\nbhīṣhmo droṇaḥ sūta-putras tathāsau\nsahāsmadīyair api yodha-mukhyaiḥ\n vaktrāṇi te tvaramāṇā viśhanti\ndanṣhṭrā-karālāni bhayānakāni\nkechid vilagnā daśhanāntareṣhu\nsandṛiśhyante chūrṇitair uttamāṅgaiḥ\n",
-    "word_meanings": "amī—these; cha—and; tvām—you; dhṛitarāśhtrasya—of Dhritarashtra; putrāḥ—sons; sarve—all; saha—with; eva—even; avani-pāla—their allied kings; sanghaiḥ—assembly; bhīṣhmaḥ—Bheeshma; droṇaḥ—Dronacharya; sūta-putraḥ—Karna; tathā—and also; asau—this; saha—with; asmadīyaiḥ—from our side; api—also; yodha-mukhyaiḥ—generals;\n vaktrāṇi—mouths; te—your; tvaramāṇāḥ—rushing; viśhanti—enter; danṣhṭrā—teeth; karālāni—terrible; bhayānakāni—fearsome; kechit—some; vilagnāḥ—getting stuck; daśhana-antareṣhu—between the teeth; sandṛiśhyante—are seen; chūrṇitaiḥ—getting smashed; uttama-aṅgaiḥ—heads\n"
+    "transliteration": "amī cha tvāṁ dhṛitarāśhtrasya putrāḥ\nsarve sahaivāvani-pāla-saṅghaiḥ\nbhīṣhmo droṇaḥ sūta-putras tathāsau\nsahāsmadīyair api yodha-mukhyaiḥ",
+    "word_meanings": "amī—these; cha—and; tvām—you; dhṛitarāśhtrasya—of Dhritarashtra; putrāḥ—sons; sarve—all; saha—with; eva—even; avani-pāla—their allied kings; sanghaiḥ—assembly; bhīṣhmaḥ—Bheeshma; droṇaḥ—Dronacharya; sūta-putraḥ—Karna; tathā—and also; asau—this; saha—with; asmadīyaiḥ—from our side; api—also; yodha-mukhyaiḥ—generals;"
 }, {
     "chapter_id": 11,
     "chapter_number": 11,
@@ -5188,7 +5188,7 @@
     "title": "Verse 472",
     "verse_number": 3,
     "verse_order": 472,
-    "transliteration": "ye tv akṣharam anirdeśhyam avyaktaṁ paryupāsate\nsarvatra-gam achintyañcha kūṭa-stham achalandhruvam\n sanniyamyendriya-grāmaṁ sarvatra sama-buddhayaḥ\nte prāpnuvanti mām eva sarva-bhūta-hite ratāḥ\n",
+    "transliteration": "ye tv akṣharam anirdeśhyam avyaktaṁ paryupāsate\nsarvatra-gam achintyañcha kūṭa-stham achalandhruvam\n",
     "word_meanings": "ye—who; tu—but; akṣharam—the imperishable; anirdeśhyam—the indefinable; avyaktam—the unmanifest; paryupāsate—worship; sarvatra-gam—the all-pervading; achintyam—the unthinkable; cha—and; kūṭa-stham—the unchanging; achalam—the immovable; dhruvam—the eternal; \n sanniyamya—restraining; indriya-grāmam—the senses; sarvatra—everywhere; sama-buddhayaḥ—even-minded; te—they; prāpnuvanti—attain; mām—me; eva—also; sarva-bhūta-hite—in the welfare of all beings; ratāḥ—engaged\n"
 }, {
     "chapter_id": 12,
@@ -6442,8 +6442,8 @@
     "title": "Verse 586",
     "verse_number": 15,
     "verse_order": 586,
-    "transliteration": "āḍhyo ’bhijanavān asmi ko ’nyo ’sti sadṛiśho mayā\nyakṣhye dāsyāmi modiṣhya ity ajñāna-vimohitāḥ\n aneka-chitta-vibhrāntā moha-jāla-samāvṛitāḥ\nprasaktāḥ kāma-bhogeṣhu patanti narake ’śhuchau\n",
-    "word_meanings": "āḍhyaḥ—wealthy; abhijana-vān—having highly placed relatives; asmi—me; kaḥ—who; anyaḥ—else; asti—is; sadṛiśhaḥ—like; mayā—to me; yakṣhye—I shall perform sacrifices; dāsyāmi—I shall give alms; modiṣhye—I shall rejoice; iti—thus; ajñāna—ignorance; vimohitāḥ—deluded\n aneka—many; chitta—imaginings; vibhrāntāḥ—led astray; moha—delusion; jāla—mesh; samāvṛitāḥ—enveloped; prasaktāḥ—addicted; kāma-bhogeṣhu—gratification of sensuous pleasures; patanti—descend; narake—to hell; aśhuchau—murky\n"
+    "transliteration": "āḍhyo ’bhijanavān asmi ko ’nyo ’sti sadṛiśho mayā\nyakṣhye dāsyāmi modiṣhya ity ajñāna-vimohitāḥ\n",
+    "word_meanings": "āḍhyaḥ—wealthy; abhijana-vān—having highly placed relatives; asmi—me; kaḥ—who; anyaḥ—else; asti—is; sadṛiśhaḥ—like; mayā—to me; yakṣhye—I shall perform sacrifices; dāsyāmi—I shall give alms; modiṣhye—I shall rejoice; iti—thus; ajñāna—ignorance; vimohitāḥ—deluded\n"
 }, {
     "chapter_id": 16,
     "chapter_number": 16,
@@ -7245,7 +7245,7 @@
     "title": "Verse 659",
     "verse_number": 36,
     "verse_order": 659,
-    "transliteration": "sukhaṁ tv idānīṁ tri-vidhaṁ śhṛiṇu me bharatarṣhabha\nabhyāsād ramate yatra duḥkhāntaṁ cha nigachchhati\n yat tad agre viṣham iva pariṇāme ‘mṛitopamam\ntat sukhaṁ sāttvikaṁ proktam ātma-buddhi-prasāda-jam\n",
+    "transliteration": "sukhaṁ tv idānīṁ tri-vidhaṁ śhṛiṇu me bharatarṣhabha\nabhyāsād ramate yatra duḥkhāntaṁ cha nigachchhati\n",
     "word_meanings": "sukham—happiness; tu—but; idānīm—now; tri-vidham—of three kinds; śhṛiṇu—hear; me—from me; bharata-ṛiṣhabha—Arjun, the best of the Bharatas; abhyāsāt—by practice; ramate—rejoices; yatra—in which; duḥkha-antam—end of all suffering; cha—and; nigachchhati—reaches\n yat—which; tat—that; agre—at first; viṣham iva—like poison; pariṇāme—in the end; amṛita-upamam—like nectar; tat—that; sukham—happiness; sāttvikam—in the mode of goodness; proktam—is said to be; ātma-buddhi—situated in self-knowledge; prasāda-jam—generated by the pure intellect\n"
 }, {
     "chapter_id": 18,
