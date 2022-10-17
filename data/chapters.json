@@ -9,7 +9,9 @@
         "name_meaning": "Arjuna's Dilemma",
         "name_translation": "Arjuna Visada Yoga",
         "name_transliterated": "Arjun Viṣhād Yog",
+        "alternate chapter titles":  "Arjuna vishada yoga, Prathama Adhyaya, The Distress of Arjuna, The War Within, or Arjuna's Sorrow."
         "verses_count": 47
+        
     },
     {
         "chapter_number": 2,
@@ -21,6 +23,7 @@
         "name_meaning": "Transcendental Knowledge",
         "name_translation": "Sankhya Yoga",
         "name_transliterated": "Sānkhya Yog",
+        "alternate chapter titles":"Sankhya Yoga, The Book of Doctrines, Self-Realization, or The Yoga of Knowledge (and Philosophy)."
         "verses_count": 72
     },
     {
@@ -33,6 +36,7 @@
         "name_meaning": "Path of Selfless Service",
         "name_translation": "Karma Yoga",
         "name_transliterated": "Karm Yog",
+        "alternate chapter titles": "Karma yoga, Virtue in Work, Selfless Service, or The Yoga of Action."
         "verses_count": 43
     },
     {
@@ -45,6 +49,7 @@
         "name_meaning": "Path of Knowledge and the Disciplines of Action",
         "name_translation": "Jnana Karma Sanyasa Yoga",
         "name_transliterated": "Jñāna Karm Sanyās Yog",
+        "alternate chapter titles": "Jñāna–Karma-Sanyasa yoga, The Religion of Knowledge, Wisdom in Action, or The Yoga of Renunciation of Action through Knowledge."
         "verses_count": 42
     },
     {
@@ -57,6 +62,7 @@
         "name_meaning": "Path of Renunciation",
         "name_translation": "Karma Sanyasa Yoga",
         "name_transliterated": "Karm Sanyās Yog",
+        "alternate chapter titles": "Karma–Sanyasa yoga, Religion by Renouncing Fruits of Works, Renounce and Rejoice, or The Yoga of Renunciation."
         "verses_count": 29
     },
     {
@@ -69,6 +75,7 @@
         "name_meaning": "Path of Meditation",
         "name_translation": "Dhyana Yoga",
         "name_transliterated": "Dhyān Yog",
+        "alternate chapter titles": "Dhyana yoga, Religion by Self-Restraint, The Practice of Meditation, or The Yoga of Meditation."
         "verses_count": 47
     },
     {
@@ -81,6 +88,7 @@
         "name_meaning": "Self-Knowledge and Enlightenment",
         "name_translation": "Gyaan Vigyana Yoga",
         "name_transliterated": "Jñāna Vijñāna Yog",
+        "alternate chapter titles": "Jnana–Vijnana yoga, Religion by Discernment, Wisdom from Realization, or The Yoga of Knowledge and Judgment."
         "verses_count": 30
     },
     {
@@ -93,6 +101,7 @@
         "name_meaning": "Path of the Eternal God",
         "name_translation": "Akshara Brahma Yoga",
         "name_transliterated": "Akṣhar Brahma Yog",
+        "alternate chapter titles": "Aksara–Brahma yoga, Religion by Devotion to the One Supreme God, The Eternal Godhead, or The Yoga of the Imperishable Brahman."
         "verses_count": 28
     },
     {
@@ -105,6 +114,7 @@
         "name_meaning": "Yoga through the King of Sciences",
         "name_translation": "Raja Vidya Yoga",
         "name_transliterated": "Rāja Vidyā Yog",
+        "alternate chapter titles": "Raja–Vidya–Raja–Guhya yoga, Religion by the Kingly Knowledge and the Kingly Mystery, The Royal Path, or The Yoga of Sovereign Science and Sovereign Secret."
         "verses_count": 34
     },
     {
@@ -117,6 +127,7 @@
         "name_meaning": "Yoga through Appreciating the Infinite Opulences of God",
         "name_translation": "Vibhooti Yoga",
         "name_transliterated": "Vibhūti Yog",
+        "alternate chapter titles": "Vibhuti–Vistara–yoga, Religion by the Heavenly Perfections, Divine Splendor, or The Yoga of Divine Manifestations."
         "verses_count": 42
     },
     {
@@ -129,6 +140,7 @@
         "name_meaning": "Yoga through Beholding the Cosmic Form of God",
         "name_translation": "Vishwaroopa Darshana Yoga",
         "name_transliterated": "Viśhwarūp Darśhan Yog",
+        "alternate chapter titles": "Vishvarupa–Darshana yoga, The Manifesting of the One and Manifold, The Cosmic Vision, or The Yoga of the Vision of the Cosmic Form."
         "verses_count": 55
     },
     {
@@ -141,6 +153,7 @@
         "name_meaning": "The Yoga of Devotion",
         "name_translation": "Bhakti Yoga",
         "name_transliterated": "Bhakti Yog",
+        "alternate chapter titles": "Bhakti yoga, The Religion of Faith, The Way of Love, or The Yoga of Devotion."
         "verses_count": 20
     },
     {
@@ -153,6 +166,7 @@
         "name_meaning": "Yoga through Distinguishing the Field and the Knower of the Field",
         "name_translation": "Ksetra Ksetrajna Vibhaaga Yoga",
         "name_transliterated": "Kṣhetra Kṣhetrajña Vibhāg Yog",
+        "alterante chapter titles": "Ksetra–Ksetrajna Vibhaga yoga, Religion by Separation of Matter and Spirit, The Field and the Knower, or The Yoga of Difference between the Field and Field-Knower."
         "verses_count": 35
     },
     {
@@ -165,6 +179,7 @@
         "name_meaning": "Yoga through Understanding the Three Modes of Material Nature",
         "name_translation": "Gunatraya Vibhaga Yoga",
         "name_transliterated": "Guṇa Traya Vibhāg Yog",
+        "alternate chapter titles": "Gunatraya–Vibhaga yoga, Religion by Separation from the Qualities, The Forces of Evolution, or The Yoga of the Division of Three Gunas."
         "verses_count": 27
     },
     {
@@ -177,6 +192,7 @@
         "name_meaning": "The Yoga of the Supreme Divine Personality",
         "name_translation": "Purushottama Yoga",
         "name_transliterated": "Puruṣhottam Yog",
+        "alternate chapter titles": "Purushottama yoga, Religion by Attaining the Supreme Krishna, The Supreme Self, or The Yoga of the Supreme Purusha."
         "verses_count": 20
     },
     {
@@ -189,6 +205,7 @@
         "name_meaning": "Yoga through Discerning the Divine and Demoniac Natures",
         "name_translation": "Daivasura Sampad Vibhaga Yoga",
         "name_transliterated": "Daivāsura Sampad Vibhāg Yog",
+        "alternate chapter titles": "Daivasura–Sampad–Vibhaga yoga, The Separateness of the Divine and Undivine, Two Paths, or The Yoga of the Division between the Divine and the Demonic."
         "verses_count": 24
     },
     {
@@ -201,6 +218,7 @@
         "name_meaning": "Yoga through Discerning the Three Divisions of Faith",
         "name_translation": "Sraddhatraya Vibhaga Yoga",
         "name_transliterated": "Śhraddhā Traya Vibhāg Yog",
+        "alternate chapter titles": "Shraddhatraya-Vibhaga yoga, Religion by the Threefold Kinds of Faith, The Power of Faith, or The Yoga of the Threefold Faith."
         "verses_count": 28
     },
     {
@@ -213,6 +231,7 @@
         "name_meaning": "Yoga through the Perfection of Renunciation and Surrender",
         "name_translation": "Moksha Sanyaas Yoga",
         "name_transliterated": "Mokṣha Sanyās Yog",
+        "alternate chapter titles": "Moksha–Sanyasa yoga, Religion by Deliverance and Renunciation, Freedom and Renunciation, or The Yoga of Liberation and Renunciation."
         "verses_count": 78
     }
 ]
