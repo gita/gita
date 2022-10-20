@@ -17,7 +17,20 @@ The Bhagavad Gita in JSON
 - The Bhagavad-gita is manual given by the Supreme Lord Krishna which guides us in making the best use of this human life and to deriving real happiness from it.
 - In the modern times when people are more confused and misdirected, the Gita become all the more relevant for the individual as well as the society at large in bringing back the stability and happiness in life.
 
+## Is there any connection between the Bhagavad Gita and modern science?
+Yes, Religious books are Science only, and knowledge is knowledge, everything is connected to one another, everything is just extension of past knowledge written in different form, some relations between Shrimad Bhagwad Gita and Modern Science are:
+- There are six months of Uttarayana and six months of Dakshinayan means for six months Sun is on North pole, and for other six months Sun is on south pole….. In school in science classes, we use to study this…….
+- Mentioning about Shukla paksha and Krishna paksha, which are phases of Moon Shukla paksha is period after No moon/Amavasya to full Moon/Puranmasi and Krishna paksha is a period after full Moon/Puranmasi to new Moon…….. That too we study in School classes.In Modern science phases of the Moon are Universal truth……..So Gita is a book which covers all topics of life and science……..One can get all answer to all question and even one can see some modern science equations has been taken from Shrimad Bhagwad Gita…….like
+- Law of Energy conservation, Energy is neither created, nor it can be destroyed, it can be simply transferred from one form to another.
 
+  Shrimad Bhagwad Gita: Soul cannot be destroyed by any weapon, fire cannot burn it, water cannot wet it, air cannot dry it, only it an be transferred from one body to other.
+  just like law of energy conservation Soul/Energy cannot be created, cannot be destroyed, it can be simply transfered from one form to another.
+
+- Newtons third law: For every action, there is equal and opposite action.
+
+  Shrimad Bhagwad Gita : Jaise karoge, waise bharoge…..What ever karma or work you will do, you will get results according to your karma/work……
+
+One can relate many more…………. Om..
 
 
 # What is "The Bhagavad Gita"
