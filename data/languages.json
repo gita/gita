@@ -10,5 +10,37 @@
     {
         "id": 3,
         "language": "sanskrit"
+    },
+    {
+        "id": 4,
+        "language": "telugu"
+    },
+    {
+        "id": 5,
+        "language": "tamil"
+    },
+    {
+        "id": 6,
+        "language": "punjabi"
+    },
+    {
+        "id": 7,
+        "language": "oriya"
+    },
+    {
+        "id": 8,
+        "language": "malayalam"
+    },
+    {
+        "id": 9,
+        "language": "kannada"
+    },
+    {
+        "id": 10,
+        "language": "gujarati"
+    },
+    {
+        "id": 11,
+        "language": "bengali"
     }
 ]
