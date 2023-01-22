@@ -1,18 +1,18 @@
-<h1> CHAPTER WISE SUMMARY OF BHAGAVAD-GITA  </h1>
+<h1> CHAPTER WISE SUMMARY OF THE BHAGAVAD-GITA  </h1>
 <h3> Chapter 1:  Observing the Armies on the Battlefield of Kurukshetra</h3>
-Two armies, those of the Pandavas and the Kauravas, face each other on the Battlefield of Kurukshetra. Many signs indicate victory for the Pandavas. Dhrtarashtra, the Pandavas’ uncle and the Kauravas’ father, doubts the possibility of his sons’ victory and asks Sanjaya, his secretary, to describe the scene on the battlefield.
+Two armies, those of the Pandavas and the Kauravas, face each other on the Battlefield of Kurukshetra. Many signs indicate victory for the Pandavas. Dhritarashtra, the Pandavas’ uncle and the Kauravas’ father, doubts the possibility of his sons’ victory and asks Sanjaya, his secretary, to describe the scene on the battlefield.
 
-Arjuna, one of five Pandava brothers, undergoes a crisis just before the fight. He is overwhelmed by compassion for his family members and teachers, whom he is supposed to kill. After submitting before Krishna many noble and moral reasons why he wishes not to fight, Arjuna casts aside his weapons, overwhelmed with grief. Arjuna’s reluctance to fight indicates his kind heart; such a person is fit to receive transcendental knowledge.
+Arjuna, one of five Pandava brothers, undergoes a crisis just before the fight. He is overwhelmed by compassion for his family members and teachers, whom he is supposed to kill. After submitting before Krishna many noble and moral reasons why he does not wish to fight, Arjuna casts aside his weapons, overwhelmed with grief. Arjuna’s reluctance to fight indicates his kind heart; such a person is fit to receive transcendental knowledge.
 
 <h3>Chapter 2: Contents of the Gita Summarized</h3>
 Krishna does not sympathize with Arjuna’s arguments. Rather, He reminds Arjuna that his duty is to fight and orders him to overcome his weakness of heart. Arjuna is torn between his aversion to killing his relatives and Krishna’s desire that he should fight. Aggrieved and confused, Arjuna asks Krishna for guidance and becomes his disciple.
 
 Krishna takes up the role of Arjuna’s Spiritual Master and teaches him that the soul is eternal and cannot be killed. Dying in battle promotes a fighter to the heavenly planets, so Arjuna should rejoice that those persons he is about to kill will achieve superior births. A person is eternally an individual. Only his body perishes. Thus, there is nothing to lament.
 
-Arjuna’s decision not to fight is based on his desire to enjoy life with his relatives, even at the cost of wisdom and duty. Such a mentality keeps one bound to the material world. Krishna advises Arjuna to engage in buddhi-yoga, work without attachment to the results. By fighting in this way, Arjuna will free himself from the cycle of birth and death and become eligible to enter the kingdom of God.
+Arjuna’s decision not to fight is based on his desire to enjoy life with his relatives, even at the cost of wisdom and duty. Such a mentality keeps one bound to the material world. Krishna advises Arjuna to engage in buddhi-yoga, work without attachment to results. Fighting in this way, Arjuna will be able to free himself from the cycle of birth and death and become eligible to enter the kingdom of God.
 
 <h3>Chapter 3: Karma – Yoga</h3>
-Arjuna is still confused. He thinks that buddhi-yoga means that one should retire from active life and practice penance and austerities. But Krishna says, “no. Fight! But do it in a spirit of renunciation and offer all the results to the Supreme. This is the best purification. By working without attachment, one attains the Supreme.”
+Arjuna is still confused. He thinks that buddhi-yoga means that one should retire from active life and practice penance and austerities. But Krishna says, “No. Fight! But do it in a spirit of renunciation and offer all the results to the Supreme. This is the best purification. By working without attachment, one attains the Supreme.”
 
 Performing sacrifices for the pleasure of the Lord guarantees material prosperity and freedom from sinful reactions. Even a self-realized person never gives up his duty. He acts for the sake of educating others.
 
