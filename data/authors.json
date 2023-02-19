@@ -82,5 +82,21 @@
     {
         "id": 21,
         "name": "Shri Purohit Swami"
+    },
+	{
+        "id": 22,
+        "name": "Rudra Vaisnava Sampradaya"
+    },
+    {
+        "id": 23,
+        "name": "Brahma Vaisnava Sampradaya"
+    },
+    {
+        "id": 24,
+        "name": "Sri Vaisnava Sampradaya"
+    },
+    {
+        "id": 25,
+        "name": "Kumara Vaisnava Sampradaya"
     }
 ]
