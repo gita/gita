@@ -13,9 +13,10 @@ The Bhagavad Gita in JSON
 - The Bhagavad-Gita guides us out of such delusions and reestablishes us in our original position of eternity, knowledge and bliss
 - If we follow the instructions as given by Lord Krishna, then we can attain the same blissful state as Arjuna did
 
-## 🌸 How relevant is it in modern times
-- The Bhagavad-gita is manual given by the Supreme Lord Krishna which guides us in making the best use of this human life and to deriving real happiness from it.
-- In the modern times when people are more confused and misdirected, the Gita become all the more relevant for the individual as well as the society at large in bringing back the stability and happiness in life.
+## 🌸 Relevance of Bhagavad Gita in Modern Life
+- Today’s world brings the word unrest to mind. There is fierce competition for every resource and opportunity. Globalization has put us in close proximity to people that we don’t know and cannot implicitly trust. Over population has us crowding together and getting in each other’s way and on each other’s nerves. The need to achieve, succeed, grow and excel has turned us into a restless bunch. And if today is taken care of, then there is tomorrow to worry about.
+
+- Science and Technology are asking and answering questions about the world around us and making it easier to do anything we set our mind to. Today’s world is an easy and accessible world. 
 
 
 # What is "The Bhagavad Gita"
